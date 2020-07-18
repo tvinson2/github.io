@@ -1,0 +1,23 @@
+#canvas1 {
+    border:3px solid black;
+}
+#round1 {
+    position: absolute;
+    top: 0;
+  }
+#round2 {
+    left: 0;
+  }
+  
+#round3 {
+    left: 150px;
+  }
+#buttonParent {
+    position: relative;
+  }
+body{
+    margin:0;
+    background: url("/images/tableTop.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
